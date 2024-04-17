@@ -8,7 +8,7 @@ const Jobs = () => {
       </div>
       <div className="job-finder">
         <div className="job-search-main">
-          <iframe className="job-search" src="https://supersouls-job-finder.hf.space"></iframe>
+          
         </div>
       </div>
       <Footer />

@@ -10,7 +10,7 @@ const Champions_portal = () => {
       </div>
       <div className="cp-main">
         <div className="cp-ai-main">
-          <iframe className="cp-ai" src="https://supersouls-champions-portal.hf.space"></iframe>
+
         </div>
       </div>
       <div className="cp-features-main">

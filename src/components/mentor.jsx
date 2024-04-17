@@ -13,7 +13,11 @@ const Mentor = () => {
         <div className='mentor-left-main'>
           <div className="mentor-left">
             <div className="mentor-ai-left">
-              <iframe className="sub-mentors" src="https://supersouls2-physics-mentor.hf.space"></iframe>
+              
+
+
+
+
             </div>
             <div className="features-mentor">
               <h2>FEATURES</h2>
@@ -42,7 +46,9 @@ const Mentor = () => {
               <h2>FEATURES</h2>
             </div>
             <div className="mentor-ai-right">
-              <iframe className="sub-mentors" src="https://supersouls-chemistry-mentor.hf.space"></iframe>
+              
+
+
             </div>
           </div>
           <div className="rating-main">
@@ -65,7 +71,9 @@ const Mentor = () => {
         <div className='mentor-left-main'>
           <div className="mentor-left">
             <div className="mentor-ai-left">
-              <iframe className="sub-mentors" src="https://supersouls-biology-mentor.hf.space/"></iframe>
+             
+             
+
             </div>
             <div className="features-mentor">
               <h2>FEATURES</h2>
@@ -99,7 +107,9 @@ const Mentor = () => {
               <h2>FEATURES</h2>
             </div>
             <div className="mentor-ai-right">
-              <iframe className="sub-mentors" src="https://supersouls-commerce-and-arts-mentor.hf.space"></iframe>
+            
+
+
             </div>
           </div>
           <div className="rating-main">
@@ -122,7 +132,10 @@ const Mentor = () => {
         <div className='mentor-left-main'>
           <div className="mentor-left">
             <div className="mentor-ai-left">
-              <iframe className="sub-mentors" src="https://supersouls-english-mentor.hf.space"></iframe>
+            
+
+
+
             </div>
             <div className="features-mentor">
               <h2>FEATURES</h2>
@@ -157,7 +170,12 @@ const Mentor = () => {
               <h2>FEATURES</h2>
             </div>
             <div className="mentor-ai-right">
-              <iframe className="sub-mentors" src="https://supersouls-maths-mentor.hf.space"></iframe>
+           
+
+
+
+
+
             </div>
           </div>
           <div className="rating-main">
@@ -184,7 +202,10 @@ const Mentor = () => {
         <div className='mentor-left-main'>
           <div className="mentor-left">
             <div className="mentor-ai-left">
-              <iframe className="sub-mentors" src="https://supersouls-programming-mentor.hf.space"></iframe>
+          
+
+
+          
             </div>
             <div className="features-mentor">
               <h2>FEATURES</h2>
